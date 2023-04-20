@@ -20,8 +20,13 @@ app.get("/", function(req, res) {
   res.render("home", {homeString: homeStartingContent });
 })
 
+app.get("/about", function(req, res) {
+  res.render("about", {aboutString: aboutContent});
+})
 
-
+app.get("/contact", function(req, res) {
+  res.render("contact", { contact: contactContent });
+})
 
 
 
