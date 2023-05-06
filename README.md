@@ -1,4 +1,7 @@
-# BlogSite
-- Upload daily posts
+ BlogSite.
+ 
+- user upload posts
+
 - use ejs tamplates
+
 - bootstrap styling
