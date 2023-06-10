@@ -3,6 +3,6 @@ BlogSite
 
 - daily posts
 
-- ejs tamplates
+- ejs - tamplates
 
 - bootstrap styling
