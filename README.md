@@ -1,4 +1,2 @@
 
-BlogSite :  daily posts , ejs tamplates
-
-- bootstrap styling
+BlogSite :  daily posts , ejs tamplates , Bootstrap styling
