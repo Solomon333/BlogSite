@@ -1,7 +1,5 @@
 
-BlogSite
-
-- daily posts
+BlogSite :  daily posts
 
 - ejs - tamplates
 
