@@ -1,4 +1,5 @@
 
 BlogSite-
 - Daily Posts
-- Ejs Tamplates , Bootstrap Styling
+- Ejs Tamplates
+- Bootstrap Styling
