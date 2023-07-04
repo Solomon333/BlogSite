@@ -1,5 +1,5 @@
 
-  BlogSite :
+  BlogSite -
   
 - Daily Posts.
 
