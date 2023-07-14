@@ -3,4 +3,7 @@
 
 - Ejs Tamplates.
   
-- Bootstrap Styling.
+- Bootstrap.
+- HTML.
+- CSS.
+- JAVASCIPT.
