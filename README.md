@@ -6,4 +6,4 @@
 - Bootstrap.
 - HTML.
 - CSS.
-- JAVASCIPT.
+- JavaScript.
