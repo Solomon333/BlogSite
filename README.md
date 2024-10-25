@@ -6,5 +6,6 @@
   .Bootstrap
   
   .HTML
-  CSS. 
+  
+  .CSS. 
   JavaScript.
