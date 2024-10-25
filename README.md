@@ -7,5 +7,6 @@
   
   .HTML
   
-  .CSS. 
-  JavaScript.
+  .CSS
+  
+  .JavaScript
