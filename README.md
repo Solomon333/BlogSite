@@ -2,6 +2,7 @@
   BlogSite : Daily Posts
 
   Ejs Tamplates
-  .Bootstrap.HTML.
+  
+  .Bootstrap.HTML
   CSS. 
   JavaScript.
