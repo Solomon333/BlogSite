@@ -1,7 +1,7 @@
 
   BlogSite : Daily Posts ---
 
-  Ejs Tamplates
+  Ejs Tamplates.
   
   .Bootstrap
   
