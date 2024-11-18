@@ -3,7 +3,7 @@
 
   Ejs Tamplates.
   
-  .Bootstrap
+  .Bootstrap.
   
   .HTML
   
