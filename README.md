@@ -1,11 +1,11 @@
 
   BlogSite : Daily Posts
 
-  Ejs Tamplates.
+  Ejs Tamplates
   
-  .Bootstrap.
+  .Bootstrap
   
-  .HTML.
+  .HTML
   
   .CSS
   
