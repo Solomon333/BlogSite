@@ -5,8 +5,6 @@
   
   .Bootstrap
   
-  .HTML
-  
-  .CSS
+  .HTML \ .CSS
   
   .JavaScript
