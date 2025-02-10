@@ -1,6 +1,7 @@
 
   BlogSite : Daily Posts
 
-  Ejs Tamplates \ .Bootstrap
+  Ejs 
+  =Tamplates \ .Bootstrap
   
   .HTML \ .CSS \  .JavaScript
