@@ -2,6 +2,9 @@
   BlogSite : Daily Posts
 
   Ejs 
-  =Tamplates \ .Bootstrap
+  
+  =Tamplates 
+  
+  \ .Bootstrap
   
   .HTML \ .CSS \  .JavaScript
